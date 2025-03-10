@@ -1,0 +1,23 @@
+{
+  "name": "random_data_lib",
+  "version": "1.0.0",
+  "description": "this lib is useful for generating random data:names, numbers, dates and address",
+  "main": "random_data_generator.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NastasyaChurashova/random_data_generator_lib.git"
+  },
+  "keywords": [
+    "random",
+    "data"
+  ],
+  "author": "Nastasya Churashova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NastasyaChurashova/random_data_generator_lib/issues"
+  },
+  "homepage": "https://github.com/NastasyaChurashova/random_data_generator_lib#readme"
+}
